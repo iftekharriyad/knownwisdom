@@ -1,3 +1,19 @@
+
+![Known Wisdom](/src/images/KnownWisdomLogoV4.png "Known Wisdom")
+
+Known Wisdom is a group of professionals who want to use their skills to improve this world. For this our focus is helping others to make this a more sustainable world and improve the environment. 
+
+“We are not environmentalists, we are professionals who care about the environment.”
+
+We help other nonprofits maximize their use of technology and digital services to expand their exposure to the community and donors alike. Known Wisdom does this in the most effective way by leveraging valuable services from digital market leaders such as Microsoft, Google, Salesforce and others. We consult with our clients to understand their needs, and implement digital strategies to help reach their goals.
+
+Our experience is that many non profit organizations have difficulty with their IT work. For this, we would like to help through our services.
+
+Ultimately, we want to extend in the future our support outside of the area of IT. We believe that virtually every professional skill can be used to make this a better world.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Script
